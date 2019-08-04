@@ -1,0 +1,17 @@
+Name: Liberty
+
+Terms of Use:
+Commercial/Non-Commercial
+My name and Kadokawa either in a credit list in the game or in a Read-me file for credits. 
+
+Contact Info:
+Email: liberty_rmn@yahoo.com
+PM Liberty on rpgmaker.net site
+PM Ksi on rpgmakerweb.com
+
+Details:
+The Custom - Stalls file is fully custom and doesn't require Kadokawa's accreditation for use. All other resources (bar the aforementioned Custom - Stalls file) can only be used in RPG Maker engines. 
+
+If used commercially you must own a copy of RPG Maker 2003 and RPG Maker 2000 (both, as a lot of the graphics consist of edits of both and splicings of them together at times, too.)
+
+If you do use these resources, send me a line letting me know. I like checking out projects.
